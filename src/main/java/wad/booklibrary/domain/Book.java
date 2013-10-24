@@ -21,7 +21,8 @@ import javax.persistence.TemporalType;
  */
 @Entity
 @Table(name = "Book")
-public class Book {
+public class Book
+{
     
     @Id
     @GeneratedValue(strategy = GenerationType.TABLE)

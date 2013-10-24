@@ -6,8 +6,17 @@
         <title>WepaHT</title>
     </head>
     <body>
-        <h1>Le HT</h1>
+        <h1>Books!</h1>
 
         <p>Good luck!</p>
+        <p>Search by book name</p>
+        <form action="books" method="GET">
+            <input type="text" name=""/>
+        </form>
+        <p>Search by author</p>
+        <form action="" method="GET">
+            <input type="text" name=""/>
+        </form>
+        <a href=""></a>
     </body>
 </html>
